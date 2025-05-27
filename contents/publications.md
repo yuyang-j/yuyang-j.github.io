@@ -1,0 +1,5 @@
+-  <strong>Chenghuizi Yang</strong>, Weiping Zhong, Wei Li , Yunong Xia , Lei Qin , Xianyu Tang, and Shitou Xia* (2025). LRRReceptor-like Protein in Rapeseed Confers Resistance to Sclerotinia sclerotiorum Infection via a Conserved SsNEP2 Peptide. <strong>International Journal of Molecular Sciences</strong>. [[Paper]]( https://doi.org/10.3390/ijms26104569)
+
+-  <strong>Chenghuizi Yang</strong>, Lan Tang, Lei Qin, Weiping Zhong, Xianyu Tang, Xin Gong, Wenqi Xie, Yifu Li, and Shitou Xia* (2023). mRNA Turnover Protein 4 Is Vital for Fungal Pathogenicity and Response to Oxidative Stress in Sclerotinia sclerotiorum. <strong>Pathogens</strong>. [[Paper]]( https://doi.org/10.3390/pathogens12020281)
+
+-  <strong>Chenghuizi Yang</strong>, Wei Li , Xingchuan Huang, Xianyu Tang, Lei Qin, Yanan Liu, Yunong Xia, Weiping Zhong, and Shitou Xia* (2022). SsNEP2 Contributes to the Virulence of Sclerotinia sclerotiorum. <strong>Pathogens</strong>. [[Paper]]( https://doi.org/10.3390/pathogens11040446)
