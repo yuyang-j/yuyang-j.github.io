@@ -3,10 +3,16 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Yuyang Jiang</title>
 
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+      <title>Yuyang Jiang</title>
+
+    <!-- Use Jekyll variables so the same HTML works for either a project site or a user site.
+         You will need to add a top-level _config.yml (example below) that sets `baseurl`. -->
+    <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}/">
+
+    <link rel="stylesheet" href="{{ site.baseurl }}/stylesheets/styles.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/stylesheets/pygment_trac.css">
+
     <meta name="viewport" content="width=device-width">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -41,6 +47,6 @@
         <p><small>Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
-    <script src="javascripts/scale.fix.js"></script>
+    <script src="{{ site.baseurl }}/javascripts/scale.fix.js"></script>
   </body>
 </html>
