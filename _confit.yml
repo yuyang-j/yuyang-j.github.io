@@ -1,0 +1,5 @@
+title: "Yuyang Jiang"
+baseurl: ""        # set to "" for a user site; set to "/YuyangJiang.github.io" for project site
+url: "https://yuyang-j.github.io"  # change if you use a different domain
+markdown: kramdown
+theme: minimal
